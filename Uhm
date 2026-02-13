@@ -3070,3 +3070,5 @@ end
 		--
 	end
 end
+
+local lib = Library
